@@ -8,6 +8,8 @@ before_install:
   - sudo apt-get -qq update
   - sudo apt-get install nvidia-cuda-toolkit nvidia-cuda-dev -y
 script:
+  - go get -u github.com/barnex/fftw 
+  - go get -u github.com/barnex/matrix
   - go build ./...
 deploy:
   skip_cleanup: true
