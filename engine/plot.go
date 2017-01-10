@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/mumax/3/httpfs"
+	"github.com/godsic/3/httpfs"
 	"image"
 	"image/png"
 	"io/ioutil"

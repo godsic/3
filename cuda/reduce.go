@@ -4,9 +4,9 @@ import (
 	"math"
 	"unsafe"
 
-	"github.com/mumax/3/cuda/cu"
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/cuda/cu"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/util"
 )
 
 //#include "reduce.h"

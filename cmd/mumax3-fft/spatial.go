@@ -8,9 +8,9 @@ import (
 
 	"github.com/barnex/fftw"
 	"github.com/barnex/matrix"
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/httpfs"
-	"github.com/mumax/3/oommf"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/httpfs"
+	"github.com/godsic/3/oommf"
 )
 
 func mainSpatial() {

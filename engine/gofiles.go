@@ -4,8 +4,8 @@ package engine
 
 import (
 	"flag"
-	"github.com/mumax/3/cuda"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/cuda"
+	"github.com/godsic/3/util"
 	"os"
 	"path"
 )

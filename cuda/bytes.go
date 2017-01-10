@@ -6,8 +6,8 @@ import (
 	"log"
 	"unsafe"
 
-	"github.com/mumax/3/cuda/cu"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/cuda/cu"
+	"github.com/godsic/3/util"
 )
 
 // 3D byte slice, used for region lookup.

@@ -1,11 +1,11 @@
 package engine
 
 import (
-	"github.com/mumax/3/cuda"
-	"github.com/mumax/3/cuda/curand"
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/mag"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/cuda"
+	"github.com/godsic/3/cuda/curand"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/mag"
+	"github.com/godsic/3/util"
 )
 
 var (

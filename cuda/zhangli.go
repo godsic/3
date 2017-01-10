@@ -1,7 +1,7 @@
 package cuda
 
 import (
-	"github.com/mumax/3/data"
+	"github.com/godsic/3/data"
 )
 
 // Add Zhang-Li ST torque (Tesla) to torque.

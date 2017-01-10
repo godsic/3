@@ -3,7 +3,7 @@ package engine
 // Management of output directory.
 
 import (
-	"github.com/mumax/3/httpfs"
+	"github.com/godsic/3/httpfs"
 	"strings"
 )
 

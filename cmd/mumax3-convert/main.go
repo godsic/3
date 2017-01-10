@@ -43,12 +43,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/draw"
-	"github.com/mumax/3/dump"
-	"github.com/mumax/3/httpfs"
-	"github.com/mumax/3/oommf"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/draw"
+	"github.com/godsic/3/dump"
+	"github.com/godsic/3/httpfs"
+	"github.com/godsic/3/oommf"
+	"github.com/godsic/3/util"
 )
 
 var (

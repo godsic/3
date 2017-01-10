@@ -6,8 +6,8 @@ import (
 	"log"
 	"math"
 
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/util"
 )
 
 // Output size of R2C FFT with given logic size, expressed in floats.

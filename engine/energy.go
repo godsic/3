@@ -3,8 +3,8 @@ package engine
 // Total energy calculation
 
 import (
-	"github.com/mumax/3/cuda"
-	"github.com/mumax/3/data"
+	"github.com/godsic/3/cuda"
+	"github.com/godsic/3/data"
 )
 
 // TODO: Integrate(Edens)

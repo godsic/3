@@ -2,8 +2,8 @@ package mag
 
 import (
 	"fmt"
-	d "github.com/mumax/3/data"
-	"github.com/mumax/3/util"
+	d "github.com/godsic/3/data"
+	"github.com/godsic/3/util"
 	"math"
 )
 

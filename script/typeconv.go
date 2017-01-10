@@ -2,7 +2,7 @@ package script
 
 import (
 	"fmt"
-	"github.com/mumax/3/data"
+	"github.com/godsic/3/data"
 	"go/token"
 	"reflect"
 )

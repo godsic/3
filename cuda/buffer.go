@@ -10,8 +10,8 @@ import (
 	"log"
 	"unsafe"
 
-	"github.com/mumax/3/cuda/cu"
-	"github.com/mumax/3/data"
+	"github.com/godsic/3/cuda/cu"
+	"github.com/godsic/3/data"
 )
 
 var (

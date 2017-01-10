@@ -3,9 +3,9 @@
 package main
 
 import (
-	"github.com/mumax/3/data"
-	. "github.com/mumax/3/engine"
-	"github.com/mumax/3/oommf"
+	"github.com/godsic/3/data"
+	. "github.com/godsic/3/engine"
+	"github.com/godsic/3/oommf"
 	"math"
 	"os"
 )

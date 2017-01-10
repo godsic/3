@@ -2,7 +2,7 @@ package draw
 
 import (
 	"fmt"
-	"github.com/mumax/3/svgo"
+	"github.com/godsic/3/svgo"
 	"io"
 	"math"
 )

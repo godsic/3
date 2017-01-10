@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/mumax/3/engine"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/engine"
+	"github.com/godsic/3/util"
 )
 
 // check all input files for errors, don't run.

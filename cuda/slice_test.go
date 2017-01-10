@@ -3,7 +3,7 @@ package cuda
 import (
 	"testing"
 
-	"github.com/mumax/3/data"
+	"github.com/godsic/3/data"
 )
 
 func TestSlice(t *testing.T) {

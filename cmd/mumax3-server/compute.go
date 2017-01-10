@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mumax/3/httpfs"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/httpfs"
+	"github.com/godsic/3/util"
 )
 
 var (

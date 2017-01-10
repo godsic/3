@@ -6,4 +6,3 @@ env:
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install nvidia-cuda-toolkit nvidia-cuda-dev -y
-  - sudo apt-get install gcc g++ -y

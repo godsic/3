@@ -1,9 +1,9 @@
 package cuda
 
 import (
-	"github.com/mumax/3/cuda/cu"
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/cuda/cu"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/util"
 )
 
 // Stores the necessary state to perform FFT-accelerated convolution

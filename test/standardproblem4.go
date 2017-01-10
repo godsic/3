@@ -3,7 +3,7 @@
 package main
 
 import (
-	. "github.com/mumax/3/engine"
+	. "github.com/godsic/3/engine"
 )
 
 func main() {

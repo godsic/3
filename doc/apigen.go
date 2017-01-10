@@ -2,8 +2,8 @@
 package main
 
 import (
-	"github.com/mumax/3/cuda"
-	"github.com/mumax/3/engine"
+	"github.com/godsic/3/cuda"
+	"github.com/godsic/3/engine"
 	"io/ioutil"
 	"os"
 	"reflect"

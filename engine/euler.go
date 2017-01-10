@@ -1,8 +1,8 @@
 package engine
 
 import (
-	"github.com/mumax/3/cuda"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/cuda"
+	"github.com/godsic/3/util"
 )
 
 type Euler struct{}

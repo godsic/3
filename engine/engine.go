@@ -12,7 +12,7 @@ TODO: godoc everything
 package engine
 
 import (
-	"github.com/mumax/3/timer"
+	"github.com/godsic/3/timer"
 	"os"
 	"runtime"
 	"sync"

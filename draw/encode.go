@@ -3,7 +3,7 @@ package draw
 import (
 	"bufio"
 	"fmt"
-	"github.com/mumax/3/data"
+	"github.com/godsic/3/data"
 	"image"
 	"image/color"
 	"image/gif"

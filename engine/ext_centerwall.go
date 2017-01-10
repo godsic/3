@@ -2,7 +2,7 @@ package engine
 
 import (
 	"fmt"
-	"github.com/mumax/3/data"
+	"github.com/godsic/3/data"
 )
 
 var (

@@ -11,8 +11,8 @@ import (
 	"strings"
 
 	"github.com/barnex/fftw"
-	"github.com/mumax/3/httpfs"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/httpfs"
+	"github.com/godsic/3/util"
 )
 
 // main loop for table input

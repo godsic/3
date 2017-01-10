@@ -1,6 +1,6 @@
 package engine
 
-import "github.com/mumax/3/util"
+import "github.com/godsic/3/util"
 
 var allowUnsafe = false // allow unsafe features?
 

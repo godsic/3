@@ -1,9 +1,9 @@
 package engine
 
 import (
-	"github.com/mumax/3/cuda"
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/draw"
+	"github.com/godsic/3/cuda"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/draw"
 	"image"
 	"image/jpeg"
 	"math"

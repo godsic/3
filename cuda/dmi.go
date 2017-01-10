@@ -3,8 +3,8 @@ package cuda
 import (
 	"unsafe"
 
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/util"
+	"github.com/godsic/3/data"
+	"github.com/godsic/3/util"
 )
 
 // Add effective field of Dzyaloshinskii-Moriya interaction to Beff (Tesla).
