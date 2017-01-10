@@ -5,5 +5,5 @@ env:
     - GOARCH=amd64
 before_install:
   - sudo apt-get -qq update
-  - sudo apt-get install nividia-cuda-toolkit -y
+  - sudo apt-get install nvidia-cuda-toolkit nvidia-cuda-dev -y
   - sudo apt-get install gcc g++ -y
