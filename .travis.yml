@@ -6,11 +6,11 @@ env:
   global:
     - GOARCH=amd64
 before_install:
+  - wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-repo-ubuntu1404_8.0.44-1_amd64.deb
   - sudo apt-get -qq update
-  - sudo apt-get install nvidia-cuda-toolkit nvidia-cuda-dev -y
+  - sudo dpkg -i cuda-repo-ubuntu1404_8.0.44-1_amd64.deb
+  - sudo apt-get install cuda -y
 script:
   - go get -u github.com/barnex/fftw 
   - go get -u github.com/barnex/matrix
   - go build ./...
-deploy:
-  skip_cleanup: true  
