@@ -7,8 +7,8 @@ env:
     - GOARCH=amd64
 before_install:
   - wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-repo-ubuntu1404_8.0.44-1_amd64.deb
-  - sudo apt-get -qq update
   - sudo dpkg -i cuda-repo-ubuntu1404_8.0.44-1_amd64.deb
+  - sudo apt-get -qq update
   - sudo apt-get install cuda -y
 script:
   - go get -u github.com/barnex/fftw 
